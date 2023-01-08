@@ -37,4 +37,4 @@ if (command === 'text'){
 
 
 
-client.login("")
+client.login("add your bot token here")
